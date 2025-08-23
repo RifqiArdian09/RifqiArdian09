@@ -1,7 +1,5 @@
 ## Hi there 👋
-<img width="1355" height="610" alt="goof" src="https://github.com/user-attachments/assets/b49a108c-45be-4860-a83b-538598acec6c" />
 
-<!--
 **RifqiArdian09/RifqiArdian09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
