@@ -1,3 +1,6 @@
+<h1 align="center">Rifqi Ardian</h1>
+<h3 align="center">Junior Fullstack Developer</h3>
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifqiard._) 
 
