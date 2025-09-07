@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Rifqi%20Ardian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=75&descAlign=center"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Rifqi%20Ardian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center"/>
   
 </div>
 
@@ -46,8 +46,29 @@
 
 <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
 
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,supabase,laravel,fastapi,flutter,git,github,postman,figma&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=light" alt="Frontend Skills" />
+</p>
+
+### **Backend & Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,py,java,dart,laravel,fastapi&theme=light" alt="Backend Languages" />
+</p>
+
+### **Database & Services**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=light" alt="Database & Services" />
+</p>
+
+### **Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Mobile Development" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=light" alt="Development Tools" />
 </p>
 
 </div>
@@ -85,6 +106,18 @@
 </picture>
 
 </div>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&border=true&bg_color=f8fafc&color=52525b" alt="Quote" />
+
+</div>
+
+---
 
 <div align="center">
   
