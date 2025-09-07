@@ -49,51 +49,13 @@ interests:
 
 ---
 
-## 🛠️ Tech Stack
 
-<div style="background: linear-gradient(135deg, #fafafa 0%, #f9fafb 100%); padding: 30px; border-radius: 20px; border: 1px solid #e4e4e7; margin: 25px 0;">
-
-### Frontend
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=27272a" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=27272a" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=27272a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=27272a" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=27272a" alt="Bootstrap"/>
+<div align="center" style="margin-top: 40px;">
+  <h2 style="color: #52525b;">🛠️ Tech Stack</h2>
+  <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin-top: 15px; border: 1px solid #e4e4e7;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flutter,git,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
+  </div>
 </div>
-
-### Backend
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=27272a" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=27272a" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=27272a" alt="Java"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=27272a" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=27272a" alt="FastAPI"/>
-</div>
-
-### Mobile
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=27272a" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=27272a" alt="Dart"/>
-</div>
-
-### Database
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=27272a" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=27272a" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=27272a" alt="Supabase"/>
-</div>
-
-### Tools & Platforms
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=27272a" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=27272a" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=27272a" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=27272a" alt="Figma"/>
-</div>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
