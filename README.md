@@ -1,49 +1,137 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Rifqi%20Ardian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center"/>
+  
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifqiArdian09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RifqiArdian09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=71717A&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Building+amazing+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
+  
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
 
-###
+## 🚀 **About Me**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
 </div>
 
-###
+<div style="background: linear-gradient(135deg, #f4f4f5 0%, #e4e4e7 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+🎯 **Passionate Full Stack Developer**  
+💻 **Love creating innovative web solutions**  
+🌱 **Currently exploring modern frameworks**  
+🎨 **UI/UX enthusiast with an eye for design**  
+⚡ **Always excited to learn new technologies**
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake.svg" alt="Snake animation" />
+## 📊 **GitHub Statistics**
 
-###
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RifqiArdian09&show_icons=true&theme=transparent&hide_border=true&title_color=52525b&text_color=71717a&icon_color=a1a1aa&bg_color=00000000&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RifqiArdian09&layout=compact&theme=transparent&hide_border=true&title_color=52525b&text_color=71717a&bg_color=00000000&langs_count=8&card_width=320" height="180" alt="Top Languages" />
+
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RifqiArdian09&theme=transparent&hide_border=true&stroke=71717A&ring=a1a1aa&fire=52525b&currStreakLabel=52525b&sideLabels=71717a&currStreakNum=52525b&sideNums=71717a&dates=a1a1aa&background=00000000" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack**
+
+<div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
+
+### **Frontend Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=light" alt="Frontend Skills" />
+
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,mysql,postgresql,mongodb,firebase&theme=light" alt="Backend Skills" />
+
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify&theme=light" alt="Tools" />
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Connect With Me**
+
+<div style="background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=52525b)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=52525b)](https://instagram.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=52525b)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=52525b)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=52525b)](mailto:your.email@gmail.com)
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RifqiArdian09&theme=minimal&hide_border=true&bg_color=f8fafc&color=71717a&line=a1a1aa&point=52525b&area=true&area_color=e4e4e7" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Quote of the Day**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&border=true&bg_color=f8fafc&color=52525b" alt="Quote" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Animated Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn"/>
+  
+  <p style="color: #71717a; font-size: 14px; margin-top: 20px;">
+    ⭐ From <a href="https://github.com/RifqiArdian09" style="color: #52525b;">RifqiArdian09</a> with ❤️
+  </p>
+  
+</div>
