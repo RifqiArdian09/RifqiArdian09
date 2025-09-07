@@ -18,10 +18,6 @@
 
 ## 🚀 **About Me**
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-
-</div>
-
 <div style="background: linear-gradient(135deg, #f4f4f5 0%, #e4e4e7 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 🎯 **Passionate Full Stack Developer**  
@@ -113,16 +109,6 @@
 
 <div align="center">
 
-## 📈 **Activity Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RifqiArdian09&theme=minimal&hide_border=true&bg_color=f8fafc&color=71717a&line=a1a1aa&point=52525b&area=true&area_color=e4e4e7" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 💭 **Quote of the Day**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&border=true&bg_color=f8fafc&color=52525b" alt="Quote" />
@@ -135,9 +121,5 @@
   
   <!-- Animated Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn"/>
-  
-  <p style="color: #71717a; font-size: 14px; margin-top: 20px;">
-    ⭐ From <a href="https://github.com/RifqiArdian09" style="color: #52525b;">RifqiArdian09</a> with ❤️
-  </p>
   
 </div>
