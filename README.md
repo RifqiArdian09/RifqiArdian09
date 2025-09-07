@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=52525B&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+passionate+developer;Building+amazing+web+applications;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=fff&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+passionate+developer;Building+amazing+web+applications;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -49,9 +49,8 @@ interests:
 
 ---
 
-
+## 🛠️ Tech Stack
 <div align="center" style="margin-top: 40px;">
-  <h2 style="color: #52525b;">🛠️ Tech Stack</h2>
   <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin-top: 15px; border: 1px solid #e4e4e7;">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flutter,git,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
   </div>
