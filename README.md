@@ -95,7 +95,7 @@
 
 <div align="center">
 
-## 🐍 **Contribution Snake**
+## **Contribution**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake-dark.svg">
