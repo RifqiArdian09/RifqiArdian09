@@ -59,13 +59,19 @@
 <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
 
 ### **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=light" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=light" alt="Frontend Skills" />
 
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,mysql,postgresql,mongodb,firebase&theme=light" alt="Backend Skills" />
+### **Backend & Languages**
+<img src="https://skillicons.dev/icons?i=php,py,dart,java&theme=light" alt="Backend Languages" />
+
+### **Database & Backend Services**
+<img src="https://skillicons.dev/icons?i=mysql,supabase,laravel,fastapi&theme=light" alt="Database & Services" />
+
+### **Mobile & Frameworks**
+<img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Mobile Development" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify&theme=light" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=light" alt="Development Tools" />
 
 </div>
 
