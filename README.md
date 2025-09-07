@@ -52,7 +52,7 @@ interests:
 ## 🛠️ Tech Stack
 <div align="center" style="margin-top: 40px;">
   <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin-top: 15px; border: 1px solid #e4e4e7;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flutter,git,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flask,flutter,pandas,numpy,matplotlib,seaborngit,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
   </div>
 </div>
 
