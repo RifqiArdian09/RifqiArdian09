@@ -56,7 +56,7 @@ interests:
     <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flutter,git,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
   </div>
 </div>
----
+
 
 ## 🌐 Connect With Me
 
