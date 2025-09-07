@@ -4,9 +4,6 @@
   </h1>
 </div>
 
-<div align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmIxdTF1NGdqbmFlbHVmbDg4dG5uYXk3emQ3YTM1OHA5cTBmNXNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Coding GIF"/>
-</div>
 
 <div align="center">
   <h2 style="color: #52525b;">🚀 About Me</h2>
@@ -45,6 +42,7 @@
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=71717a)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=71717a)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=71717a)
