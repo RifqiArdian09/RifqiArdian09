@@ -62,26 +62,9 @@ interests:
 <div align="center" style="background: linear-gradient(135deg, #fafafa 0%, #f9fafb 100%); padding: 25px; border-radius: 20px; border: 1px solid #e4e4e7; margin: 25px 0;">
   
   <div style="margin: 10px 0;">
-    <a href="https://youtube.com" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=27272a" alt="YouTube"/>
-    </a>
-    <a href="https://instagram.com" target="_blank">
+    <a href="https://www.instagram.com/rifqiard._/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=27272a" alt="Instagram"/>
     </a>
-    <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=27272a" alt="Discord"/>
-    </a>
-  </div>
-  
-  <div style="margin: 10px 0;">
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=27272a" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=27272a" alt="Gmail"/>
-    </a>
-  </div>
-  
 </div>
 
 ---
