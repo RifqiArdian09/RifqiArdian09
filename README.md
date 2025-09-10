@@ -37,8 +37,8 @@ I'm a passionate student and programmer diving deep into full-stack development,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Rifqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img alt="Rifqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifqiArdian09&show_icons=true&theme=radical&count_private=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?RifqiArdian09&theme=radical" />
 </p>
 
 ---
