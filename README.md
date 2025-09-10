@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/header.svg" alt="Header Image" width="100%" />
+  <img src="https://github.com/RifqiArdian09/blob/main/header.svg" alt="Header Image" width="100%" />
 </p>
 
 # Hi, I'm Rifqi 👋
