@@ -1,94 +1,95 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10&height=200&section=header&text=Rifqi%20Ardian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=75&descAlign=center"/>
-</div>
+<!--
+  README.md - Modern, minimalistic, and professional GitHub profile README
+-->
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=fff&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+passionate+developer;Building+amazing+web+applications;Always+learning+new+technologies+🚀" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/header.svg" alt="Header Image" width="100%" />
+</p>
 
----
+# Hi, I'm Rifqi 👋
 
-## 🚀 About Me
-
-<div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 25px; border-radius: 16px; border: 1px solid #e4e4e7; margin: 20px 0;">
-
-```yaml
-name: Rifqi Ardian
-role: Full Stack Developer
-focus: Web Development & Modern Technologies
-interests:
-  - 💻 Creating innovative web solutions
-  - 🌱 Exploring modern frameworks
-  - 🎨 UI/UX design & development
-  - ⚡ Performance optimization
-  - 🔧 DevOps & deployment
-```
-
-</div>
+### Full-Stack Developer 
 
 ---
 
-## 📊 GitHub Analytics
+## 👨‍🎓 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RifqiArdian09&show_icons=true&theme=transparent&hide_border=true&title_color=52525b&text_color=71717a&icon_color=a1a1aa&bg_color=00000000" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RifqiArdian09&layout=compact&theme=transparent&hide_border=true&title_color=52525b&text_color=71717a&bg_color=00000000&langs_count=8" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RifqiArdian09&theme=transparent&hide_border=true&stroke=71717A&ring=52525b&fire=71717a&currStreakLabel=52525b&sideLabels=71717a&currStreakNum=52525b&sideNums=71717a&dates=a1a1aa&background=00000000" alt="GitHub Streak" width="70%"/>
-</div>
+I'm a passionate student and programmer diving deep into full-stack development, UI/UX design, and the exciting world of IoT. I love building sleek, user-friendly applications and exploring how connected devices can improve everyday life.
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center" style="margin-top: 40px;">
-  <div style="background: linear-gradient(135deg, #fafafa 0%, #f4f4f5 100%); padding: 30px; border-radius: 15px; margin-top: 15px; border: 1px solid #e4e4e7;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,py,dart,java,mysql,sqlite,supabase,laravel,fastapi,flask,flutter,github,postman,figma&theme=light&perline=9" alt="Tech Stack" />
-  </div>
-</div>
+## 🛠️ Skills
 
-
-## 🌐 Connect With Me
-
-<div align="center" style="background: linear-gradient(135deg, #fafafa 0%, #f9fafb 100%); padding: 25px; border-radius: 20px; border: 1px solid #e4e4e7; margin: 25px 0;">
-  
-  <div style="margin: 10px 0;">
-    <a href="https://www.instagram.com/rifqiard._/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=27272a" alt="Instagram"/>
-    </a>
-</div>
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Stats
 
-<div align="center" style="margin: 30px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RifqiArdian09/RifqiArdian09/output/snake.svg" width="100%">
-  </picture>
-</div>
+<p align="center">
+  <img alt="Rifqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
 
 ---
 
-<div align="center" style="margin: 40px 0 0 0;">
-  <img src="https://komarev.com/ghpvc/?username=RifqiArdian09&color=71717a&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
+## 🚀 Featured Projects
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10&height=120&section=footer&animation=fadeIn"/>
-</div>
+| Project | Description |
+| :---: | :--- |
+| [Awesome Portfolio](https://github.com/your-username/awesome-portfolio) | A sleek, responsive portfolio website showcasing my projects and skills. |
+| [IoT Home Automation](https://github.com/your-username/iot-home-automation) | An IoT system to control home appliances remotely using Arduino and Node.js. |
+| [UI/UX Design Kit](https://github.com/your-username/ui-ux-design-kit) | A collection of reusable UI components and design templates in Figma. |
 
-<div align="center" style="margin-top: 20px;">
-  <sub>✨ <i>Made with passion and dedication</i> ✨</sub>
-</div>
+---
+
+## 🎯 Current Learning & Goals
+
+- Mastering **TypeScript** and advanced **React** patterns.
+- Building scalable **full-stack applications** with **Node.js** and **MongoDB**.
+- Exploring **IoT protocols** and integrating devices with cloud services.
+- Improving **UI/UX design skills** to create intuitive user experiences.
+
+---
+
+## 🎉 Fun Facts & Hobbies
+
+- 🎮 Gamer at heart — love strategy and puzzle games.
+- 🎨 Amateur digital artist — experimenting with Procreate.
+- ☕ Coffee enthusiast — always on the lookout for the perfect brew.
+- 🤖 Fascinated by robotics and AI — dreaming of building my own robot someday.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:rifqi@example.com" target="_blank" rel="noopener">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank" rel="noopener">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Rifqi
+</p>
