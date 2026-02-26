@@ -206,25 +206,6 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Certificates Section -->
-## 📜 &nbsp;Sertifikat Terverifikasi
-
-<div align="center">
-
-| No | 📄 Sertifikat | 🏢 Penerbit | ✅ Status |
-|----|--------------|-------------|-----------|
-| 1 | **Belajar Dasar AI** | Dicoding | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-| 2 | **Belajar Dasar Pemrograman** | Dicoding | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-| 3 | **Belajar Dasar Pemrograman Javascript** | Dicoding | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-| 4 | **Belajar Membuat Front-End Web Untuk Pemula** | Dicoding | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-| 5 | **Penghargaan Atas Pembuatan Web W-Vote** | SMKN 1 Kota Bengkulu | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-| 6 | **Belajar Fundamental Front-End Web Development** | Dicoding | ![Verified](https://img.shields.io/badge/-Terverifikasi-b5ff4d?style=flat-square) |
-
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- Connect Section -->
 ## 🤝 &nbsp;Hubungi Saya
 
