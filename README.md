@@ -252,6 +252,4 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5ff4d,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" />
 
-<div align="center">
-  <sub>⚡ Dibuat dengan 💚 oleh <a href="https://rifqiardian.vercel.app/">Rifqi Ardian</a> — © 2026</sub>
-</div>
+>
