@@ -27,8 +27,6 @@ nama: Rifqi Ardian
 lokasi: Bengkulu, Indonesia
 pendidikan: SMK - Pengembangan Perangkat Lunak & Gim
 fokus: Web Development & Teknologi Informasi
-email: ardianrifqi77@gmail.com
-whatsapp: +6285182911840
 status: 🟢 Terbuka untuk peluang
 ```
 
@@ -36,10 +34,9 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 
 <br/>
 
-🔭 &nbsp;Sedang mengerjakan proyek **E-Voting** & **CMS** untuk instansi  
+
 🌱 &nbsp;Sedang mempelajari **Next.js, Laravel, & Livewire**  
 💬 &nbsp;Tanyakan tentang **React, Next.js, Tailwind CSS, Laravel**  
-📫 &nbsp;Hubungi saya di **ardianrifqi77@gmail.com**  
 ⚡ &nbsp;Fun fact: Suka mendesain UI yang futuristik & interaktif  
 
 <br clear="both"/>
@@ -83,9 +80,6 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Featured Projects Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Karya Unggulan
 
 <div align="center">
 
@@ -242,8 +236,6 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rifqiardian.vercel.app-b5ff4d?style=for-the-badge&labelColor=0a0a0a)](https://rifqiardian.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-ardianrifqi77@gmail.com-EA4335?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=white)](mailto:ardianrifqi77@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+6285182911840-25D366?style=for-the-badge&labelColor=0a0a0a&logo=whatsapp&logoColor=white)](https://wa.me/6285182911840)
 
 <br/>
 
