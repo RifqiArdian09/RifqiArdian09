@@ -20,7 +20,7 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tentang Saya
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifqiArdian09&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b5ff4d&text_color=f5f5f5&langs_count=6" width="280" />
+<img align="right" src="https://github-readme-stats-nu.vercel.app/api/top-langs/?username=RifqiArdian09&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b5ff4d&text_color=f5f5f5&langs_count=6" width="280" />
 
 ```yaml
 nama: Rifqi Ardian
@@ -85,12 +85,12 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 
 <!-- Project 1: W-Vote -->
 <a href="https://rifqiardian.vercel.app/projects/w-vote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifqiArdian09&repo=w-vote&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=b5ff4d&icon_color=b5ff4d&text_color=a0a0a0" width="400" />
+  <img src="https://github-readme-stats-nu.vercel.app/api/pin/?username=RifqiArdian09&repo=w-vote&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=b5ff4d&icon_color=b5ff4d&text_color=a0a0a0" width="400" />
 </a>
 &nbsp;&nbsp;
 <!-- Project 2: UPTTIK UMB -->
 <a href="https://rifqiardian.vercel.app/projects/upptik-um-bengkulu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifqiArdian09&repo=upptik-um-bengkulu&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=b5ff4d&icon_color=b5ff4d&text_color=a0a0a0" width="400" />
+  <img src="https://github-readme-stats-nu.vercel.app/api/pin/?username=RifqiArdian09&repo=upptik-um-bengkulu&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=b5ff4d&icon_color=b5ff4d&text_color=a0a0a0" width="400" />
 </a>
 
 </div>
@@ -187,7 +187,7 @@ Seorang **Pelajar SMK Jurusan Pengembangan Perangkat Lunak dan Gim** yang memili
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RifqiArdian09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b5ff4d&icon_color=b5ff4d&text_color=f5f5f5&ring_color=b5ff4d&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-nu.vercel.app/api?username=RifqiArdian09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=b5ff4d&icon_color=b5ff4d&text_color=f5f5f5&ring_color=b5ff4d&include_all_commits=true&count_private=true" width="48%" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifqiArdian09&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=1a1a1a&ring=b5ff4d&fire=b5ff4d&currStreakLabel=b5ff4d&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=666666" width="48%" />
 
